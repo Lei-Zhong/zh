@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从零开始建一个属于自己的网站
+title: 杂谈|从零开始建一个属于自己的网站
 image: 
   path: /img/test.jpg
 description: >
