@@ -21,7 +21,7 @@ sitemap: false
 植物主题---墨西哥仙人掌
 {:.figcaption}
 
-![Full-width image](../img/Ecological park.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/img/Ecological park.jpg){:.lead width="800" height="100" loading="lazy"}
 
 手绘---生态公园夜景图
 {:.figcaption}
