@@ -6,12 +6,12 @@ layout: list
 title: Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: It's a blog
+slug: 个人blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Life is beautiful and full of surprises. It is always possible to find something interesting and worth observing. My blog is about the observation of life, and I hope I can share the fun of life with you.
-
+  一个关于绘画|旅游|植物|语言学习|生活杂想的个人Blog。  
+  
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
