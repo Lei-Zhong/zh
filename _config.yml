@@ -17,10 +17,10 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  zh
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Lei Zhong
+title:                 钟  蕾
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   This is a personal website for Lei Zhong
 
 # A shorter description for the sidebar.
-tagline:               Welcome to my personal webside!
+tagline:               欢迎来到我的个人网站！戳下面的邮件图标就可以联系到我啦！
 
 # A list of keywords for your blog
 keywords:              [Design, Research & Life]
@@ -48,16 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             关于Blog
     url:               /blog/
-  - title:             Portfolio
+  - title:             关于设计
     url:               /portfolio/
-#  - title:             Research
-#    url:               /research/
   - title:             About me
     url:               /RESUME/
-  - title:             中文网站
-    url:               https://lei-zhong.github.io/zh
+  - title:             English Website
+    url:               https://lei-zhong.github.io
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
