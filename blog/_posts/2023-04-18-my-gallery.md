@@ -2,7 +2,7 @@
 layout: post
 title: 画廊（持续更新中）
 image: 
-  path: /img/Catus.png
+  path: /img/Catus.jpg
 description: >
   我的画廊
 sitemap: false
