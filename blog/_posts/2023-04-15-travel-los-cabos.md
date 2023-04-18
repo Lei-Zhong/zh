@@ -13,26 +13,26 @@ sitemap: false
 
 我们先来欣赏一下这里的风景图片吧！
 
-![Full-width image](../img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](../img/braden-egli-RCRUPQa78_4-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/braden-egli-RCRUPQa78_4-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](../img/josh-withers-iPDzYTeg-AA-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 
 来这里旅游除了享受这里的美景，更是要放下烦恼，认真地体会一下，好好生活就可以拥有的简单乐趣。像当地人一样享受的美景、美好的生灵和美食，然后生活就这么自然而然地发生了。生活其实也可以很简单。
 
 找一片无人的沙滩，躺一就是一个下午。
 
-![Full-width image](../img/john-cafazza-E6ViGcJWAUc-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/john-cafazza-E6ViGcJWAUc-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 乘着春天，出海看看鲸鱼。
 
-![Full-width image](../img/mario-mendez-9QiVX_bl95U-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/mario-mendez-9QiVX_bl95U-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 这里的海总是这么蓝。除了鲸鱼，这里还有海龟、海狮、荧光藻等等的神奇海洋生物，以至于被称为“世界海洋馆”。BBC的蓝色星球就是在这里拍的。
 
-![Full-width image](../img/71V+Ng1FdXL._RI_.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/71V+Ng1FdXL._RI_.jpg){:.lead width="800" height="500" loading="lazy"}
 
 来这里玩的话，最简单的出行方式租车，方便随时出门去找一处无人的美景静静的享受一番。
 
