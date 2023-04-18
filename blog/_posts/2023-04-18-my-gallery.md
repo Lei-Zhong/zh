@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 画廊
+title: 画廊（持续更新）
 image: 
   path: /img/test.jpg
 description: >
