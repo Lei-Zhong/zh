@@ -10,7 +10,7 @@ slug: 个人blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  一个关于绘画|旅游|植物|语言学习|生活杂想的个人Blog。  
+  关于绘画|旅游|植物|语言学习|生活杂想  
   
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
