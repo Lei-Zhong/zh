@@ -16,7 +16,7 @@ sitemap: false
 动物主题---北长尾山雀
 {:.figcaption}
 
-![Full-width image](../../img/Catus.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/img/Catus.jpg){:.lead width="800" height="100" loading="lazy"}
 
 植物主题---墨西哥仙人掌
 {:.figcaption}
