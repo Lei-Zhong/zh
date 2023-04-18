@@ -8,21 +8,20 @@ description: >
 sitemap: false
 ---
 
-## 早期手绘
+个人绘画画廊，收录了一些关于动物植物风景的绘画作品。
+{:.lead}
 
-![Full-width image](../img/Ecological park.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](../img/Long-tailed tit.jpg){:.lead width="800" height="100" loading="lazy"}
 
-生态公园夜景图
+动物主题---北长尾山雀
 {:.figcaption}
 
-## 近期板绘
+![Full-width image](../img/Catus.jpg){:.lead width="800" height="100" loading="lazy"}
 
-![Full-width image](../img/Long-tailed tit.png){:.lead width="800" height="100" loading="lazy"}
-
-动物主题|北长尾山雀
+植物主题---墨西哥仙人掌
 {:.figcaption}
 
-![Full-width image](../img/Catus.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](../img/Ecological park.jpg){:.lead width="800" height="100" loading="lazy"}
 
-植物主题|墨西哥仙人掌
+手绘---生态公园夜景图
 {:.figcaption}
