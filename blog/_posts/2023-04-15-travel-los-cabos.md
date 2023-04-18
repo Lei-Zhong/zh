@@ -11,10 +11,6 @@ sitemap: false
 这里的海是世界上最珍贵的蓝宝石。
 {:.lead}
 
-![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg)
-
-![Full-width image](/img/Ecological park.jpg)
-
 我们先来欣赏一下这里的风景图片吧！
 
 ![Full-width image](/img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
