@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 旅游|卡波
+title: 旅游|墨西哥卡波---来一场浪漫者的旅行，遇见极致热情的沙漠，梦幻的海与不夜的城吧
 image: 
   path: /img/test.jpg
 description: >
