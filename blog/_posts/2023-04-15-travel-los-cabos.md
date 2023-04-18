@@ -1,36 +1,41 @@
 ---
 layout: post
-title: 旅游|墨西哥卡波---来一场浪漫者的旅行，遇见极致热情的沙漠，梦幻的海与不夜的城吧
+title: 旅游|墨西哥---来一场浪漫者的旅行，遇见极致热情的沙漠，梦幻的海与不夜的城吧
 image: 
-  path: /img/test.jpg
+  path: /img/eric-clark-Jfv_zYfLC04-unsplash.jpg
 description: >
-  My first post on this website is about itself
+  墨西哥的卡波（Los Cabos）是一个梦幻且浪漫的地方，拥有着最纯粹的大自然，是一座巨大的天然水族馆。来到这里，有神秘热辣的沙漠、无边的蓝色海洋、延绵不断的沙滩、极具风情的墨西哥小镇，充满异域的魅力。
 sitemap: false
 ---
 
-Making a personal website is not that complicated.
+这里的海是世界上最珍贵的蓝宝石。
 {:.lead}
 
-It took me two days to make this website, from zero to at least working. It was easier than I thought but I wouldn't say I know how to build a website from Zero. Thanks to Google, ChatPGT, GitHub, the template provider and all the others that contribute to it. Nowadays, we have many tools to build a simple website already. Maybe Laziness is the biggest push for technique advance indeed.
+我们先来欣赏一下这里的风景图片吧！
 
-Here I would like to share with you about how I made it, from [where to start](#where-to-start) to [the platforms for making websites](#platform-for-making-website), [GitHub and template searching](#github-and-template-searching). 
+![Full-width image](../img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
-## Where to Start
-By searching on Google or asking ChatGPT. These are the easiest tool for you to prepare yourself with some basic information about website construction. For a simple personal website, you can use a professional platform to help you, although it may cost some money. Platforms such as WordPress (I also try this one, it is pretty good and easy), Squarespace, Wix, and Weebly. But if you decide to make a website free, then building a website in GitHub is a good idea. 
+![Full-width image](../img/braden-egli-RCRUPQa78_4-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
-## Platforms for Making Websites
-Platforms such as WordPress, Squarespace, Wix, and Weebly, are strong tools for building website and are beginner friendly. One only needs to choose a suitable template and modify the content on it. But to publish the website, you will need a host service, which is always required to be paid.  
-
-## GitHub and Template Searching
-For building a website on GitHub, it is necessary to have some basic knowledge of GitHub itself. First, make an account for GitHub, then follow the [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) to learn some basic ideas about how to use GitHub, and then find a website template from [Jekyll Themes](https://jekyllrb.com/docs/themes/). The rest will be working on making the template into your website.
-
-That's all. 
+![Full-width image](../img/josh-withers-iPDzYTeg-AA-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 
-###### Notes: 
+来这里旅游除了享受这里的美景，更是要放下烦恼，认真地体会一下，好好生活就可以拥有的简单乐趣。像当地人一样享受的美景、美好的生灵和美食，然后生活就这么自然而然地发生了。生活其实也可以很简单。
 
-1. Paying to make a website is not complicated, you can always use one of those platforms. If you decided to make your website without paying, you can also try GitHub. If you find trouble in making a website, no matter if it is about the operation or the visualization, you are welcome to contact me.
-{:.faded}
+找一片无人的沙滩，躺一就是一个下午。
 
-2. Image --- Narcissus pseudonarcissus at Kew - Dafodils at Kew Gardens. Digital Image © Board of Trustees, RBG Kew (unless otherwise stated).
-{:.faded}
+![Full-width image](../img/john-cafazza-E6ViGcJWAUc-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+
+乘着春天，出海看看鲸鱼。
+
+![Full-width image](../img/mario-mendez-9QiVX_bl95U-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+
+这里的海总是这么蓝。除了鲸鱼，这里还有海龟、海狮、荧光藻等等的神奇海洋生物，以至于被称为“世界海洋馆”。BBC的蓝色星球就是在这里拍的。
+
+![Full-width image](../img/71V+Ng1FdXL._RI_.jpg){:.lead width="800" height="500" loading="lazy"}
+
+来这里玩的话，最简单的出行方式租车，方便随时出门去找一处无人的美景静静的享受一番。
+
+今天就先介绍到这里，之后会进一步完善这篇旅游分享的，关于这里的美食、小镇、紧张刺激不夜城和各种住宿推荐吧。
+
+如果你有想知道的欢迎联系我哦（网站暂时还没开通留言板块，可以给我发邮件啦）！
