@@ -15,7 +15,7 @@ sitemap: false
 
 ![Full-width image](/img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](/img/braden-egli-RCRUPQa78_4-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/los cabos whale from unsplash braden egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
 ![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
