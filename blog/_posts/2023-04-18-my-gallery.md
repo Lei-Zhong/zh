@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 画廊（持续更新）
+title: 画廊（持续更新中）
 image: 
   path: /img/Catus.png
 description: >
