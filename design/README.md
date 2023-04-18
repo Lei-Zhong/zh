@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Portfolio
+title: 关于设计
 description: >
   This is my portfolio, my work on landscape design.
 hide_description: true
 sitemap: false
-permalink: /portfolio/
+permalink: /design/
 ---
 
 I travelled with my parents everywhere when I was a child. That is the reason I love nature so much and always want to be engaged in contributing to a better environment. Design is one of the methods and it is fun. To better understand a place better, it is needed to study it first deeply. To fulfil the stakeholders' demands, it is needed to communicate with different people. To solve the existing problems and create a better environment, it is needed to develop a range of solutions. In the end, it is needed to turn the design into reality.  
