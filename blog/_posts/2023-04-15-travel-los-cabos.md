@@ -11,13 +11,17 @@ sitemap: false
 这里的海是世界上最珍贵的蓝宝石。
 {:.lead}
 
+![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg)
+
+![Full-width image](/img/Ecological park.jpg)
+
 我们先来欣赏一下这里的风景图片吧！
 
 ![Full-width image](/img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 ![Full-width image](/img/los cabos whale from unsplash braden egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg)
 
 
 来这里旅游除了享受这里的美景，更是要放下烦恼，认真地体会一下，好好生活就可以拥有的简单乐趣。像当地人一样享受的美景、美好的生灵和美食，然后生活就这么自然而然地发生了。
