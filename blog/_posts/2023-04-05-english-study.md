@@ -14,7 +14,7 @@ sitemap: false
 你也可以在小红书上搜索**猫猫松的英语学习路径**找到我的英语学习账号，查看更多学习资料啦！
 {:.note}
 
-![Full-width image](/img/English-cafe1.jpg)
+![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/English-cafe1.jpg)
 
 You are John, a young professional who has just moved to a new town for a job. You're excited about the opportunity, but also a bit nervous about starting over in a new place.
 
@@ -32,7 +32,7 @@ Maybe you stumble over your words and mispronounce some key phrases, and the bar
 
 Feeling embarrassed, you decide to take action. You search online for an English language learning blog and try to learn more vocabulary for the cafe as well as practice your conversational skills. 
 
-![Full-width image](/img/English-cafe2.jpg)
+![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/English-cafe2.jpg)
 
 咖啡店菜单*1 Get!
 {:.figcaption}
