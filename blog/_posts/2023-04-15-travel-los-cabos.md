@@ -13,15 +13,11 @@ sitemap: false
 
 我们先来欣赏一下这里的风景图片吧！
 
-![Full-width image](https://source.unsplash.com/B1DlEsBghHI/w=800){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://source.unsplash.com/i1xRBSWrRjw/w=800){:.lead width="800" height="500" loading="lazy"}
 
+![Full-width image](https://source.unsplash.com/9QiVX_bl95U/w=800){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](https://images.unsplash.com/photo-1587334408697-4f08f6d1c726?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)
-
-![Full-width image](/img/los cabos whale from unsplash braden egli.jpg){:.lead width="800" height="500" loading="lazy"}
-
-![Full-width image](/img/josh-withers-iPDzYTeg-AA-unsplash.jpg)
-
+![Full-width image](https://source.unsplash.com/iPDzYTeg-AA/w=800){:.lead width="800" height="500" loading="lazy"}
 
 来这里旅游除了享受这里的美景，更是要放下烦恼，认真地体会一下，好好生活就可以拥有的简单乐趣。像当地人一样享受的美景、美好的生灵和美食，然后生活就这么自然而然地发生了。
 
@@ -29,15 +25,17 @@ sitemap: false
 
 找一片无人的沙滩，躺一就是一个下午。
 
-![Full-width image](/img/john-cafazza-E6ViGcJWAUc-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://source.unsplash.com/E6ViGcJWAUc/w=800){:.lead width="800" height="500" loading="lazy"}
+
+![Full-width image](https://source.unsplash.com/B1DlEsBghHI/w=800){:.lead width="800" height="500" loading="lazy"}
 
 乘着春天，出海看看鲸鱼。
 
-![Full-width image](/img/mario-mendez-9QiVX_bl95U-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/los%20cabos%20whale%20from%20unsplash%20braden%20egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
 这里的海总是这么蓝。除了鲸鱼，这里还有海龟、海狮、荧光藻等等的神奇海洋生物，以至于被称为“世界海洋馆”。BBC的蓝色星球就是在这里拍的。
 
-![Full-width image](/img/71V+Ng1FdXL._RI_.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/71V%2BNg1FdXL._RI_.jpg){:.lead width="800" height="500" loading="lazy"}
 
 来这里玩的话，最简单的出行方式租车，方便随时出门去找一处无人的美景静静的享受一番。
 
