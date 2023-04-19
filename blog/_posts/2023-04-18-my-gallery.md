@@ -20,3 +20,7 @@ sitemap: false
 
 手绘---生态公园夜景图
 {:.figcaption}
+
+![Full-width image](/img/Long-tailed tit.jpg)
+
+![Full-width image](/img/Long-tailed tit2.jpg)
