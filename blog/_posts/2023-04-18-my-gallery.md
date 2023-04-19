@@ -24,3 +24,5 @@ sitemap: false
 ![Full-width image](/img/Long-tailed tit.jpg)
 
 ![Full-width image](/img/Long-tailed tit2.jpg)
+
+![Full-width image](/img/Long-tailed tit3.jpg)
