@@ -9,29 +9,13 @@ sitemap: false
 
 **公园设计项目**
 
-**让城市生态环境再次充满生命力！**
+**让自然在城市之中更有生命力！**
 
-这是一个三人团队的小项目，主要担任其中的设计技术路线搭建、This is a team project, with another two excellent teammates: Yueren Wang, Jiashuai Zhang.
-I contributed to the general design framework, ecological theories study, GIS simulation,
-  conceptual design, hand-drawing, rendering and presentation.
-  {:.note}
-  
-**Project Description**
+面积：230000㎡
+小组设计
+让野生动物重回这片历史动物园
+技术理论支持：景观生态学、GIS模拟
 
-**230 000 ㎡**
+该项目位于中国哈尔滨市中心，是市中心难得的开放式绿地之一。这是一个改造项目，希望在为市民提供休闲娱乐的同时，也为城市提供重要的生态服务功能。
 
-**A ecological park with a history as a zoo**
-
-This project is located in the city centre of Harbin, China. It is a reconstruction 
-project of the Science Park of Harbin Institute of Technology. It is one of the rare 
-open green spaces in the city centre, providing recreation for the citizen as well as 
-providing important ecology services for the city.
-
-This project focused on the restoration and creation of local habitats by studying 
-their characteristics and species. In this project, six special types of habitats 
-are the targets: forest, shrub-grassland, meadow, wetland, water-body habitats 
-and habitat in/on the buildings. Through the restoration of vegetation, terrain 
-construction, limitation of human activities (including traffic guidance, tips for 
-visiting, arrangements of social activities), we aim at creating ideal habitats for 
-Wild Animals in the city as well as constructing a harmonious Ecological park 
-where humans and animals can coexist.
+该项目的重点是通过研究当地栖息地的特征和物种来恢复和创造当地栖息地。我们以森林、灌草丛、草甸、湿地、水体栖息地和建筑物内外栖息地六种特殊类型的栖息地为对象，通过植被恢复、地形建设、人类活动限制（包括交通引导、游览提示、社交活动安排），为城市野生动物创造理想的栖息地，构建人类和动物可以和谐共处的生态公园。
