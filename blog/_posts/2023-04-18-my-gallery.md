@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 画廊（持续更新中）
+title: 画廊
 image: 
   path: /img/Long-tailed tit.jpg
 description: >
