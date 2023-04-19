@@ -16,9 +16,9 @@ permalink: /design/
 让自然在城市之中更有生命力！
 ![Full-width image](../img/Ecological park.jpg)
 
-## [天津大学佐治亚理工深圳学院---GTSI]{:.heading.flip-title}
-一座坐落于深圳的世外桃源学校。
-<sub>参与项目，项目所属AUBE深圳欧博。当前项目仍在设计过程中。</sub>
+# [天津大学佐治亚理工深圳学院---GTSI]{:.heading.flip-title}
+# 一座坐落于深圳的世外桃源学校。
+# <sub>参与项目，项目所属AUBE深圳欧博。当前项目仍在设计过程中。</sub>
 
 [生态公园设计]: ecological_park.md
-[天津大学佐治亚理工深圳学院---GTSI]: gtsi.md
+# [天津大学佐治亚理工深圳学院---GTSI]: gtsi.md
