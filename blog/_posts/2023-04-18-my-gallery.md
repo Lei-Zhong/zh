@@ -11,7 +11,7 @@ sitemap: false
 一些关于动物植物风景的绘画作品
 {:.lead}
 
-![Catus](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/Catus.png))
+![Catus](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/Catus.png)
 
 植物主题---墨西哥仙人掌
 {:.figcaption}
