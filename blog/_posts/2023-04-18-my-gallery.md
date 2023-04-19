@@ -23,7 +23,7 @@ sitemap: false
 
 ![Full-width image](/img/Long-tailed tit.jpg)
 
-![Full-width image](/img/Long-tailed tit2.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/img/Long-tailed tit2.jpg){:.lead width="800" height="500" loading="lazy"}
 
-![Full-width image](/img/Long-tailed tit3.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/img/Long-tailed tit3.jpg){:.lead width="800" height="500" loading="lazy"}
 
