@@ -34,6 +34,14 @@ tit large
 
 catus
 
+![Full-width image](/img/Catus2.jpg){:.lead width="800" height="500" loading="lazy"}
+
+catus
+
+![Full-width image](/img/Catus3.jpg){:.lead width="800" height="500" loading="lazy"}
+
+catus
+
 ![Full-width image](/img/eric-clark-Jfv_zYfLC04-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
 
 stone and beach
@@ -41,3 +49,5 @@ stone and beach
 ![Full-width image](/img/los cabos whale from unsplash braden egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
 whale
+
+
