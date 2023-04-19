@@ -1,45 +1,32 @@
 ---
 layout: page
-title: University Campus Planning and Design — GTSI
+title: 生态校园设计
 description: >
-  University campus planning and design project
-  From tender to construction drawing
+  天津大学佐治亚理工深圳学院
 hide_description: true
 sitemap: false
 ---
 
-**Creating a Comprehensive Ecological Campus**
+**大学校园设计项目类型**
 
-**My Main Duty: Landscape Project Manager + Designer**
+**主打低碳校园 生态校园 都市桃源**
 
-This is a project under AUBE in that I participated as the Landscape Project Manager and Designer. 
-It is a University campus planning and design project. The name of the campus is called GTSI (Georgia Tech Shenzhen Institute, Tianjin University). 
-In the project, I am responsible for supporting the design team and project running, 
-  as well as planning and design (especially related to ecological design).
-{:.note}
-  
-**Project Description**
+参与项目：天津大学佐治亚理工深圳学院---GTSI
+项目类型：全过程项目，从投标到建成
+参与角色：景观设计师兼项目经理
 
-**162 000 ㎡**
+面积：162000 ㎡
+时间：2021.10-至今
 
-**A Low-carbon and ecological campus**
+满足绿色低碳，绿色校园，Living Building Challenge
+针对现状生态环境打造全面生态校园策略
+从岭南园林中转译成现代都市桃源的校园之景
 
-**2021.10-present**
-
-<sub>Meeting special requirement for Low Carbon, Green Campus, Living Building Challenge</sub>
-
-<sub>Creating a comprehensive ecological campus strategy according to the current ecological environment</sub>
-
-<sub>Applying to local ecological and cultural elements</sub>
-
-The school is located in Baishiling, Xili Lake Science and
-Education Town, Nanshan District, Shenzhen City, Guangdong
-Province, China. Sitting on the mountains, it was a rare urban
-paradise. However, due to the continuous opening and
-utilization of this area for many years, the land surface has been
-changing from forests, to the farmland, and then to the factories. 
-Now, a new college jointly run by well-known Chinese and
-foreign universities will be built here. How to use the existing
-mountain forest resources, restore the local ecology, and build a
-new urban paradise campus is the main proposition of this
-project.
+学校位于中国广东省深圳市南山区西丽湖科教城白
+石岭片区。坐拥群山，是一处难得的都市桃源秘境。
+然而，由于该片区在多年来一直在被不断地开放利
+用，从山林、到农田、再到工厂，周围生态环境已
+然遭到了破坏。而今，一所由中外知名高校联合办
+学的新式学院将在这里建成。如何利用现有山林资
+源，修复当地生态，建设出新式都市桃源校园是这
+个项目的主要命题。
