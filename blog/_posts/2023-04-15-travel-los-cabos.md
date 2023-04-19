@@ -13,7 +13,7 @@ sitemap: false
 
 我们先来欣赏一下这里的风景图片吧！
 
-![Full-width image](/img/john-cafazza-i1xRBSWrRjw-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://source.unsplash.com/gySMaocSdqs/B1DlEsBghHI/w=800){:.lead width="800" height="500" loading="lazy"}
 
 ![Full-width image](/img/los cabos whale from unsplash braden egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
