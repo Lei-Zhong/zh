@@ -2,12 +2,12 @@
 layout: page
 title: 生态校园设计
 description: >
-  天津大学佐治亚理工深圳学院
+  大学校园设计项目
 hide_description: true
 sitemap: false
 ---
 
-**大学校园设计项目类型**
+**大学校园设计项目**
 
 **主打低碳校园 生态校园 都市桃源**
 
