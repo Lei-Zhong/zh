@@ -4,7 +4,7 @@ title: 杂谈|从零开始建一个属于自己的网站
 image: 
   path: /img/test.jpg
 description: >
-  我的第一篇blog将教会你怎么建一个网站！
+  教你怎么建一个网站！
 sitemap: false
 ---
 
