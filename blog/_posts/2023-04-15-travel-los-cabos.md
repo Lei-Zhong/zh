@@ -21,8 +21,6 @@ sitemap: false
 
 找一片无人的沙滩，躺一就是一个下午。
 
-![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/los%20cabos%20-%20view%20-%20eric-clark-Jfv_zYfLC04-unsplash.jpg){:.lead width="800" height="500" loading="lazy"}
-
 乘着春天，出海看看鲸鱼。
 
 ![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/los%20cabos%20-%20whale%20-%20unsplash%20braden%20egli.jpg){:.lead width="800" height="500" loading="lazy"}
