@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 英语学习笔记|咖啡店篇
+title: 英语|学习笔记-咖啡店篇
 image: 
   path: /img/English-cafe3.jpg
 description: >
