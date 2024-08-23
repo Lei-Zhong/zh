@@ -25,7 +25,7 @@ sitemap: false
 
 乘着春天，出海看看鲸鱼。
 
-![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/los%20cabos%20whale%20from%20unsplash%20braden%20egli.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/los%20cabos%20-%20whale%20-%20unsplash%20braden%20egli.jpg){:.lead width="800" height="500" loading="lazy"}
 
 这里的海总是这么蓝。除了鲸鱼，这里还有海龟、海狮、荧光藻等等的神奇海洋生物，以至于被称为“世界海洋馆”。BBC的蓝色星球就是在这里拍的。
 
